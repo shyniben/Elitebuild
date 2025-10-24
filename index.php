@@ -6,7 +6,7 @@
 // Page configuration
 $page_title = 'Premium UPVC Windows, Doors & Interior Solutions';
 $page_css = ['hero.css', 'expertise.css', 'features.css', 'products.css', 'testimonials.css', 'projects.css', 'cta.css'];
-$page_js = ['hero.js', 'expertise.js', 'features.js', 'products.js', 'testimonials.js', 'projects.js'];
+$page_js = ['hero.js', 'expertise*.js', 'features.js', 'products.js', 'testimonials.js', 'projects.js'];
 
 // Include header
 include('includes/header.php');
@@ -36,7 +36,7 @@ include('includes/header.php');
                                     <path d="M10 4L16 10L10 16M4 10H16" stroke="currentColor" stroke-width="2" fill="none"/>
                                 </svg>
                             </a>
-                            <a href="portfolio.php" class="btn btn-secondary btn-lg">
+                            <a href="portfolio.php" class="btn btn-white btn-lg">
                                 Explore Our Products
                             </a>
                         </div>
