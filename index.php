@@ -157,7 +157,8 @@ include('includes/header.php');
         <div class="expertise-grid">
             <div class="expertise-card" data-animate="fade-up" data-delay="100">
                 <div class="expertise-icon">
-                    <img src="assets/images/upvc-icon.svg" alt="UPVC Windows">
+                    <!-- <i class="fas fa-heart-crack"></i> -->
+                    <img src="assets/icons/icons8-window-50.png" alt="UPVC Windows">
                 </div>
                 <h3>UPVC and Steel Windows</h3>
                 <p>Energy-efficient, soundproof, and weather-resistant windows for modern homes and offices</p>
@@ -170,7 +171,7 @@ include('includes/header.php');
             
             <div class="expertise-card" data-animate="fade-up" data-delay="200">
                 <div class="expertise-icon">
-                    <img src="images/door-icon.svg" alt="Bathroom Doors">
+                    <img src="assets/icons/icons8-door-50.png" alt="Bathroom Doors">
                 </div>
                 <h3>Bathroom Doors</h3>
                 <p>Waterproof, stylish, and customizable doors available in sliding, folding, and swing designs</p>
@@ -183,7 +184,7 @@ include('includes/header.php');
             
             <div class="expertise-card" data-animate="fade-up" data-delay="300">
                 <div class="expertise-icon">
-                    <img src="assets/images/gypsum-icon.svg" alt="Gypsum Products">
+                    <img src="assets/icons/icons8-ceiling-32.png" alt="Gypsum Products">
                 </div>
                 <h3>Gypsum Products</h3>
                 <p>Lightweight, fire-resistant gypsum boards and ceilings for seamless interior finishes</p>
@@ -196,7 +197,7 @@ include('includes/header.php');
             
             <div class="expertise-card" data-animate="fade-up" data-delay="400">
                 <div class="expertise-icon">
-                    <img src="images/handrail-icon.svg" alt="Handrails">
+                    <img src="assets/icons/icons8-stairs-32.png" alt="Handrails">
                 </div>
                 <h3>Handrails</h3>
                 <p>Elegant and safe handrails in steel, wood, or composite materials for staircases and balconies</p>
@@ -411,7 +412,7 @@ include('includes/header.php');
                 <div class="project-image">
                     <img src="assets/images/project-oceanview.png" alt="Oceanview Residences">
                     <div class="project-overlay">
-                        <a href="portfolio.php#oceanview" class="btn btn-white">View Details</a>
+                        <a href="portfolio.php#oceanview" class="btn btn-primary">View Details</a>
                     </div>
                 </div>
                 <div class="project-info">
@@ -432,7 +433,7 @@ include('includes/header.php');
                 <div class="project-image">
                     <img src="assets/images/project-skyline.png" alt="Skyline Corporate Park">
                     <div class="project-overlay">
-                        <a href="portfolio.php#skyline" class="btn btn-white">View Details</a>
+                        <a href="portfolio.php#skyline" class="btn btn-primary">View Details</a>
                     </div>
                 </div>
                 <div class="project-info">

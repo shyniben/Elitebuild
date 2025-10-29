@@ -116,15 +116,15 @@ document.addEventListener('DOMContentLoaded', function() {
   // Social Links Animation
   const socialLinks = document.querySelectorAll('.social-link');
   
-  socialLinks.forEach(link => {
-    link.addEventListener('mouseenter', function() {
-      this.style.animation = 'bounce 0.5s ease';
-    });
+  // socialLinks.forEach(link => {
+  //   link.addEventListener('mouseenter', function() {
+  //     this.style.animation = 'bounce 0.5s ease';
+  //   });
     
-    link.addEventListener('animationend', function() {
-      this.style.animation = '';
-    });
-  });
+  //   link.addEventListener('animationend', function() {
+  //     this.style.animation = '';
+  //   });
+  // });
   
   // Footer Links Hover Effect
   const footerLinks = document.querySelectorAll('.footer-links a');

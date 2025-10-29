@@ -93,7 +93,7 @@
                 </div>
 
                 <!-- Newsletter Section -->
-                <div class="footer-newsletter" data-animate="fade-up" data-delay="400">
+                <!-- <div class="footer-newsletter" data-animate="fade-up" data-delay="400">
                     <div class="newsletter-content">
                         <div class="newsletter-text">
                             <h3>Stay Updated</h3>
@@ -115,7 +115,7 @@
                             </div>
                         </form>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- Footer Bottom -->
                 <div class="footer-bottom">

@@ -18,14 +18,12 @@ $current_page = basename($_SERVER['PHP_SELF'], '.php');
     
     <title><?php echo isset($page_title) ? $page_title . ' - ' : ''; ?>EliteBuild Solutions</title>
     
-    <!-- Fonts -->
-    <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet"> -->
-
     <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Alan+Sans:wght@300..900&family=Signika:wght@300..700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alan+Sans:wght@300..900&family=Signika:wght@300..700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
     
     <!-- CSS Files -->
     <link rel="stylesheet" href="assets/css/common.css">
@@ -59,10 +57,12 @@ $current_page = basename($_SERVER['PHP_SELF'], '.php');
                 <div class="nav-wrapper">
                     <!-- Logo -->
                     <a href="index.php" class="logo">
-                        <span class="logo-icon">🏗️</span>
+                        <img src="assets/icons/innovus-logo-main.png" class="logo-image" alt="Innovus">
+                        <!-- <span class="logo-icon">🏗️</span>
                         <span class="logo-text">EliteBuild</span>
-                        <span class="logo-tagline">Solutions</span>
+                        <span class="logo-tagline">Solutions</span> -->
                     </a>
+
 
                     <!-- Desktop Navigation -->
                     <ul class="nav-menu">

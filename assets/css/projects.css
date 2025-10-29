@@ -116,12 +116,12 @@
 }
 
 .project-overlay .btn {
-  transform: translateY(20px);
+  transform: translateY(30px);
   transition: transform var(--transition-base);
 }
 
 .project-card:hover .project-overlay .btn {
-  transform: translateY(0);
+  transform: translateY(-50%);
 }
 
 /* Project Status Badge */

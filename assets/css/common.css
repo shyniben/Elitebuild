@@ -6,12 +6,12 @@
 /* CSS Variables - Design System */
 :root {
   /* Primary Colors */
-  --color-primary: #001e77;        /* Charcoal */
+  --color-primary: #162F68;        /* Charcoal */
   --color-primary-light: #2d3748;  /* Slate */
   --color-primary-dark: #0f1219;   /* Deep Charcoal */
   
   /* Accent Colors */
-  --color-accent: #fd8f00;         /* Copper */
+  --color-accent: #F8BA31;         /* Copper */
   --color-accent-light: #d4914a;   /* Light Copper */
   --color-accent-dark: #9a5e2a;    /* Dark Copper */
   

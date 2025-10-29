@@ -81,6 +81,13 @@
   margin-right: var(--spacing-sm);
 }
 
+
+.logo-image {
+  width: 200px;
+  height: auto;
+  margin-right: var(--spacing-sm);
+}
+
 .logo-text {
   font-family: var(--font-heading);
 }
